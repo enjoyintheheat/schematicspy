@@ -1,0 +1,9 @@
+{
+  "schematics": {
+    "app": {
+      "factory": "./app",
+      "schema": "./app/schema.json",
+      "description": "Sample app"
+    }
+  }
+}
